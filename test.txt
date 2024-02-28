@@ -1,1 +1,6 @@
 Das ist meine Testdatei
+Das ist die zweite zeile 
+Feature 1
+Feature 2
+etc.
+Hi there
